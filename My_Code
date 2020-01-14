@@ -52,5 +52,6 @@ def new_move():
       vy[i] = vy[i] + (ay * t)
 
    return dr
+   
 
 
